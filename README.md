@@ -36,6 +36,6 @@ Passionate about transforming data into actionable marketing insights using SQL,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ishitavasishth&theme=radical&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishitavasishth&rank=SSS,SS,S,AAA,AA,A,B&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
