@@ -1,5 +1,5 @@
 # Hi there! I'm Ishita Vasishth 👋
-**Pursuing a Master's in Marketing at UT Austin**  
+**Pursuing a Master's in Marketing Analytics at UT Austin**  
 Passionate about transforming data into actionable marketing insights using SQL, Python, R, and Power BI.
 
 - 📊 Data Enthusiast | 🎯 Marketing Analyst  
