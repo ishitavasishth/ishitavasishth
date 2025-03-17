@@ -2,7 +2,7 @@
 **Pursuing a Master's in Marketing Analytics at UT Austin**  
 Passionate about transforming data into actionable marketing insights using SQL, Python, R, Tableau, and Power BI.
 
-- 📊 Data Enthusiast | 🎯 Marketing Analyst  
+- 📊 Data Enthusiast | 🎯 Business Intelligence Analyst  
 - 🛠️ Tools:  
   ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=MySQL&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
