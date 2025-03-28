@@ -13,10 +13,10 @@ Passionate about transforming data into actionable marketing insights using SQL,
 - 🔍 Focused on Customer Insights, RFM, CLV, A/B Testing, and Data Visualization.
 
 ## 📊 Featured Projects
-- [Marketing Campaign Analytics](https://github.com/ishitavasishth/Marketing_Campaign_Analytics)  
+- [AI Scam Detection](https://github.com/ishitavasishth/AI_Scam_Detection)  
 - [Customer Segmentation](https://github.com/ishitavasishth/Customer_Segmentation)  
 - [Netflix Data Analysis](https://github.com/ishitavasishth/netflix_sql_project)  
-- [A/B Testing Dashboard](https://github.com/ishitavasishth/A-B_Testing_Dashboard)  
+- [YouTube Data Science](https://github.com/ishitavasishth/YouTubePredictor)  
 
 ---
 
