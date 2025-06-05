@@ -1,5 +1,5 @@
 # Hi there! I'm Ishita Vasishth 👋
-**Pursuing a Master's in Analytics at UT Austin**  
+**Master of Science- UT Austin | MBA**  
 Passionate about transforming data into actionable marketing insights using SQL, Python, R, Tableau, and Power BI.
 
 - 📊 Data Enthusiast | 🎯 Business Intelligence Analyst  
